@@ -70,7 +70,12 @@ $(document).ready(function(){
             }
         }
     });
+    
 });
+
+
+
+
 
 
 
